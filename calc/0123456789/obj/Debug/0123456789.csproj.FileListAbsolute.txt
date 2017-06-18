@@ -1,0 +1,18 @@
+D:\visual studio\0123456789\0123456789\bin\Debug\0123456789.exe.config
+D:\visual studio\0123456789\0123456789\bin\Debug\0123456789.exe
+D:\visual studio\0123456789\0123456789\bin\Debug\0123456789.pdb
+D:\visual studio\0123456789\0123456789\obj\Debug\0123456789.csprojResolveAssemblyReference.cache
+D:\visual studio\0123456789\0123456789\obj\Debug\_0123456789.Form1.resources
+D:\visual studio\0123456789\0123456789\obj\Debug\_0123456789.Properties.Resources.resources
+D:\visual studio\0123456789\0123456789\obj\Debug\0123456789.csproj.GenerateResource.Cache
+D:\visual studio\0123456789\0123456789\obj\Debug\0123456789.exe
+D:\visual studio\0123456789\0123456789\obj\Debug\0123456789.pdb
+F:\物件導向程式設計\c#sln\0123456789\0123456789\bin\Debug\0123456789.exe.config
+F:\物件導向程式設計\c#sln\0123456789\0123456789\obj\Debug\0123456789.exe
+F:\物件導向程式設計\c#sln\0123456789\0123456789\obj\Debug\0123456789.pdb
+F:\物件導向程式設計\c#sln\0123456789\0123456789\bin\Debug\0123456789.exe
+F:\物件導向程式設計\c#sln\0123456789\0123456789\bin\Debug\0123456789.pdb
+F:\物件導向程式設計\c#sln\0123456789\0123456789\obj\Debug\0123456789.csprojResolveAssemblyReference.cache
+F:\物件導向程式設計\c#sln\0123456789\0123456789\obj\Debug\_0123456789.Form1.resources
+F:\物件導向程式設計\c#sln\0123456789\0123456789\obj\Debug\_0123456789.Properties.Resources.resources
+F:\物件導向程式設計\c#sln\0123456789\0123456789\obj\Debug\0123456789.csproj.GenerateResource.Cache
